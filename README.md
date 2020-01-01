@@ -1,4 +1,4 @@
-# A-Algorithm
+# A star Algorithm
 A* Algorithm With Python And Pygame
 
 
